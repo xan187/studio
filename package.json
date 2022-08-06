@@ -22,7 +22,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "@golevelup/nestjs-modules": "^0.5.0",
+    "@golevelup/nestjs-modules": "^0.6.0",
     "@nestjs/platform-express": "8.4.2",
     "@nestjs/schedule": "^2.1.0",
     "bitcoin-address-validation": "^2.2.1",
